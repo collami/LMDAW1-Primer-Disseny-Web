@@ -6,6 +6,6 @@
 ### 2- La url del repositorio es: https://github.com/collami/Primer-Disseny-Web
 ### 3- He generado un ficheros html con los parámetros definidos en el enunciado de la práctica.
 ### 4- He subido ficheros de imágenes en la carpeta `img`.
-### 5- La url del fichero html en github es:
+### 5- La url del fichero html en github es: https://github.com/collami/Primer-Disseny-Web/blob/master/Primer%20Disseny%20Web.html
 ### 6- La url del fichero html en rawgit es:
 ### 7- La url del repositorio es: https://github.com/collami/LMDAW1-Exercicis-Introducci
